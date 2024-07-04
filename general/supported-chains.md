@@ -1,0 +1,9 @@
+# Supported Chains
+
+
+
+{% tabs %}
+{% tab title="Testnet" %}
+<table><thead><tr><th width="99">ChainId</th><th width="118" align="center">Network Name</th><th width="287">Network URL</th><th>Explorer URL</th></tr></thead><tbody><tr><td>43113</td><td align="center">Avalanche</td><td><a href="https://api.avax-test.network/ext/bc/C/rpc">https://api.avax-test.network/ext/bc/C/rpc</a></td><td><a href="https://testnet.snowtrace.io">https://testnet.snowtrace.io<br></a></td></tr><tr><td>97</td><td align="center">BNB Chain</td><td><a href="https://data-seed-prebsc-1-s1.binance.org:8545/">https://data-seed-prebsc-1-s1.binance.org:8545/</a></td><td><a href="https://testnet.bscscan.com/">https://testnet.bscscan.com</a></td></tr><tr><td>17000</td><td align="center">Ethereum Holešky</td><td><a href="https://rpc.holesky.ethpandaops.io">https://rpc.holesky.ethpandaops.io</a></td><td><a href="https://holesky.etherscan.io/">https://holesky.etherscan.io</a></td></tr><tr><td>80001</td><td align="center">Polygon Mumbai</td><td><a href="https://matic-mumbai.chainstacklabs.com">https://matic-mumbai.chainstacklabs.com</a></td><td><a href="https://mumbai.polygonscan.com/">https://mumbai.polygonscan.com<br></a></td></tr><tr><td>338</td><td align="center">Cronos</td><td><a href="https://evm-t3.cronos.org/">https://evm-t3.cronos.org/</a></td><td><a href="https://testnet.cronoscan.com/">https://testnet.cronoscan.com</a></td></tr><tr><td>4002</td><td align="center">Fantom</td><td><a href="https://rpc.ankr.com/fantom_testnet">https://rpc.ankr.com/fantom_testnet</a></td><td><a href="https://testnet.ftmscan.com/">https://testnet.ftmscan.com/</a></td></tr><tr><td>44787</td><td align="center">Celo</td><td><a href="https://alfajores-forno.celo-testnet.org/">https://alfajores-forno.celo-testnet.org/</a></td><td><a href="https://explorer.celo.org/alfajores/">https://explorer.celo.org/alfajores/</a></td></tr></tbody></table>
+{% endtab %}
+{% endtabs %}
