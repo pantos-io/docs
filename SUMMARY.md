@@ -26,6 +26,7 @@
 * [Deploying Token](general/deploying-token.md)
 * [Migrate Token](general/migrate-token.md)
 * [Service Node](general/service-node.md)
+* [Compatibility](general/compatibility.md)
 
 ## Feedback
 
