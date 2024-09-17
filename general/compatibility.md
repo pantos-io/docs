@@ -19,13 +19,13 @@ The Pantos ecosystem is composed of:
 
   A node responsible for validating cross-chain transfers on behalf of the users.
 
-The Service Node interacts with the Pantos protocol to initiate cross-chain transfers. In order to do so, the Service Node needs to be compatible with the current version of the Pantos protocol. 
+If not stated otherwise, deployed components (Service and Validator nodes) MUST only interact with the latest deployed available version of the Pantos Protocol. The smart contracts offer an existing function to check the currently available version. 
 
 ## Compatibility matrix
 
 The following matrix summarizes the compatibility between the versions of the Pantos protocol and the Service Node.
 
-| Pantos protocol / Service Node | 1.8.1 |
+| Service Node / Pantos Protocol | 0.1.0 |
 | ----| ---- |
-| 1.2.1 | :heavy_check_mark: |
+| 1.8.1 | :heavy_check_mark: |
 
