@@ -27,12 +27,25 @@ The Pantos ecosystem is composed of:
 
 The Pantos Protocol is versioned using [semantic versioning](https://semver.org) following the `major.minor.patch` naming convention (e.g. `0.1.0`). However, due to the nature of the protocol version increments reflecting new patches are not expected to happen as a patch in the signature of an existing function would define new functionality.
 
-## Compatibility matrix
+## Compatibility matrices
 
-The following matrix summarizes the compatibility between the versions of the Pantos protocol and the components of the Pantos ecosystem.
+The following matrices summarize the compatibility between the versions of the Pantos protocol and the components of the Pantos ecosystem.
 
-| Pantos Protocol | Ethereum Contracts | Service Node | Validator Node |
-| ----  | ---- | ---- | ---- |
-|       | 2.0.0 | 1.8.1 | 1.8.2 |
-| 0.1.0 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
+| Ethereum Contracts | Pantos Protocol | 
+| ----  | ---- | 
+|       | 0.1.0 | 
+| 2.0.0 | :heavy_check_mark: |
+| 2.1.0 | :heavy_check_mark: |
+
+
+| Service Node | Pantos Protocol | 
+| ----  | ---- | 
+|       | 0.1.0 | 
+| 1.8.1 | :heavy_check_mark: |
+
+
+| Validator Node | Pantos Protocol | 
+| ----  | ---- | 
+|       | 0.1.0 | 
+| 1.8.2 | :heavy_check_mark: |
