@@ -28,6 +28,10 @@
 * [Service Node](general/service-node.md)
 * [Compatibility](general/compatibility.md)
 
+## REST API Reference
+
+* [Service Node](rest-api-reference/service-node.md)
+
 ## Feedback
 
 * [Report a bug](https://form.typeform.com/to/MWk69LEJ)
