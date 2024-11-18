@@ -43,7 +43,7 @@
                                     "items": {
                                         "type": "string"
                                     },
-                                    "example": "[bid has been rejected by service node:                         'bid not accepted']"
+                                    "example": "[bid has been rejected by service node: 'bid not accepted']"
                                 }
                             }
                         }
@@ -80,10 +80,10 @@
                                             "type": "string"
                                         },
                                         "source_blockchain_id": {
-                                            "$ref": "#/components/schemas/_Bids/properties/source_blockchain"
+                                            "$ref": "#/components/schemas/ _Bids/properties/source_blockchain"
                                         },
                                         "destination_blockchain_id": {
-                                            "$ref": "#/components/schemas/_Bids/properties/destination_blockchain"
+                                            "$ref": "#/components/schemas/ _Bids/properties/destination_blockchain"
                                         },
                                         "sender_address": {
                                             "type": "string"
@@ -149,10 +149,10 @@
         },
         "/bids": {
             "get": {
-                "summary": "Endpoint that returns a list of bids for a given source and             destination blockchain.",
+                "summary": "Endpoint that returns a list of bids for a given source and destination blockchain.",
                 "responses": {
                     "200": {
-                        "description": "List of bids for a given source and                 destination blockchain",
+                        "description": "List of bids for a given source and destination blockchain",
                         "content": {
                             "application/json": {
                                 "schema": {
