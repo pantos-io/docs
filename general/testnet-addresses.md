@@ -7,8 +7,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` |
-| Pantos Forwarder    | `0xce5FE7168424ED2246a3dd79214f2D69a7Edc0BB` |
+| Pantos Hub          | `0xEa949C52CA24B75A850591f98F1aA7736fD9a28E` |
+| Pantos Forwarder    | `0x9A10366FaC65956233a2D56baEC05ed095c7Cc4b` |
 
 **ID:** 0
 
@@ -16,15 +16,15 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0x7EFfCc0a130E452c2FB78bFEDBd02a33E03FD50d` | 8       |
-| BEST      | `0x9b304A0B21C6B830298b2412e51Bc5Ba17e8b796` | 8       |
-| panAVAX   | `0xCD6dF7dBba253d2e14cb7DD8E1b2662CDb40C69F` | 18      |
-| panBNB    | `0x997DFc659ABBd30F3514Bde874E663bC82B0e701` | 18      |
-| panETH    | `0x3eaFCb56D94FE1a029F727f652323062908D3185` | 18      |
-| panMATIC  | `0x3728264a465F216Fd04B7420d484f8Da85BC3241` | 18      |
-| panCRO    | `0x30ce06f12960C46aC64542813e45E03164f412fD` | 18      |
-| panFTM    | `0xab52C5eADd0bFdFabF97A105a3B64B6F9323FA1b` | 18      |
-| panCELO   | `0xEAe1274dBdD006b5eA3197729BF5f11B8fbb427E` | 18      |
+| PAN       | `0x2b3919b38B71c3ef575062CdfFc82f18d29Fe9F0` | 8       |
+| BEST      | `0xC1e83DF551e95027A65925CC8bCfe80Db7078f21` | 8       |
+| panAVAX   | `0x1d721765e6653aa1AA0143E5AD57FDe5c88F4957` | 18      |
+| panBNB    | `0xCaAe667bCd58577855e65241E07729F2BD85B99A` | 18      |
+| panETH    | `0xD0125Ba97A9af4aA51f020338B2521029c298578` | 18      |
+| panMATIC  | `ETHEREUM_PANMATIC_ADDRESS`                  | 18      |
+| panCRO    | `0xc4043292e51bd6C83D4740C97Bf7982BD6D60Bc8` | 18      |
+| panFTM    | `ETHEREUM_PANFTM_ADDRESS`                    | 18      |
+| panCELO   | `0x80D1805cd4435FbF32aeD0BA2a81b1ACDbC2d444` | 18      |
 
 
 ## BNB Chain
@@ -33,8 +33,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0xFB37499DC5401Dc39a0734df1fC7924d769721d5` |
-| Pantos Forwarder    | `0x8d1A4C7bc5f327f30895150c4596E3db6Eb48562` |
+| Pantos Hub          | `0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3` |
+| Pantos Forwarder    | `0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f` |
 
 **ID:** 1
 
@@ -42,15 +42,15 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0xC892F1D09a7BEF98d65e7f9bD4642d36BC506441` | 8       |
-| BEST      | `0xA52D00fAad14B4643aE7011a7DDd02bDD9C6C99e` | 8       |
-| panAVAX   | `0x6A7ABeea69f01A225104Cc6AD44B88D15056a3fA` | 18      |
-| panBNB    | `0x5538e600dc919f72858dd4D4F5E4327ec6f2af60` | 18      |
-| panETH    | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` | 18      |
-| panMATIC  | `0xFd9a7A3fDA872eA8E948b3b41f2dcb6CB40ed277` | 18      |
-| panCRO    | `0xC92D9f4169fCD5FcA1A15A177b98f43F0Eb90e3f` | 18      |
-| panFTM    | `0xFA5f89e332f4961574F78514a7e369FdD71f1E10` | 18      |
-| panCELO   | `0xa562C9Ef83dcfF9ee6bB90FcC7b0DbEFC8C0e8f4` | 18      |
+| PAN       | `0x14Aa1254a741Cb742455bef48edc4018D3adb58B` | 8       |
+| BEST      | `0x8c517E9B0902DabB1c31347adB34CdF0b7a742Dc` | 8       |
+| panAVAX   | `0xF07B582f28B60178071FB8368fdFA4281BA0E500` | 18      |
+| panBNB    | `0xCcF392D19b948E2fe11DB40E3FD0eeE6aE5F2ccf` | 18      |
+| panETH    | `0x467cD471265Cd87832895CE872d0E4f4B08777c5` | 18      |
+| panMATIC  | `BNB_PANMATIC_ADDRESS`                       | 18      |
+| panCRO    | `0xa153697d318F5BE360EA5F690F145315bF91a413` | 18      |
+| panFTM    | `BNB_PANFTM_ADDRESS`                         | 18      |
+| panCELO   | `0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A` | 18      |
 
 
 ## Avalanche
@@ -59,8 +59,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0xbafFb84601BeC1FCb4B842f8917E3eA850781BE7` |
-| Pantos Forwarder    | `0xfd7D081b7426aAb19CDc63E245313Ce9fF559cDC` |
+| Pantos Hub          | `0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3` |
+| Pantos Forwarder    | `0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f` |
 
 **ID:** 3
 
@@ -68,15 +68,15 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0xC892F1D09a7BEF98d65e7f9bD4642d36BC506441` | 8       |
-| BEST      | `0x5B1059888f0D2693459de34b4B2061A0DEff9d2F` | 8       |
-| panAVAX   | `0x6A7ABeea69f01A225104Cc6AD44B88D15056a3fA` | 18      |
-| panBNB    | `0x5538e600dc919f72858dd4D4F5E4327ec6f2af60` | 18      |
-| panETH    | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` | 18      |
-| panMATIC  | `0xFd9a7A3fDA872eA8E948b3b41f2dcb6CB40ed277` | 18      |
-| panCRO    | `0xE31c64069E6f3275E6bb60293A9a6e9a8F7A346f` | 18      |
-| panFTM    | `0xF23BdbAd9Ec3610c0CB475A58eEbf001F0DdED55` | 18      |
-| panCELO   | `0x35846c1aA968ce9B643B88ff96DeE21164D0e44e` | 18      |
+| PAN       | `0x14Aa1254a741Cb742455bef48edc4018D3adb58B` | 8       |
+| BEST      | `0x8c517E9B0902DabB1c31347adB34CdF0b7a742Dc` | 8       |
+| panAVAX   | `0xF07B582f28B60178071FB8368fdFA4281BA0E500` | 18      |
+| panBNB    | `0xCcF392D19b948E2fe11DB40E3FD0eeE6aE5F2ccf` | 18      |
+| panETH    | `0x467cD471265Cd87832895CE872d0E4f4B08777c5` | 18      |
+| panMATIC  | `AVAX_PANMATIC_ADDRESS`                      | 18      |
+| panCRO    | `0xa153697d318F5BE360EA5F690F145315bF91a413` | 18      |
+| panFTM    | `AVAX_PANFTM_ADDRESS`                        | 18      |
+| panCELO   | `0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A` | 18      |
 
 
 ## Polygon
@@ -85,8 +85,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0x5C4B92cd0A956dedc14AF31fD474931540D8277B` |
-| Pantos Forwarder    | `0xC458D148d1Cac769239629e744be37eDEf4F06A6` |
+| Pantos Hub          | `0x7383F45310D7157eB310c66864FD99F7cd4424a2` |
+| Pantos Forwarder    | `0xe3E92B660a50B0Ee84E3BfdE52647aEB947D8932` |
 
 **ID:** 5
 
@@ -94,15 +94,15 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0xC892F1D09a7BEF98d65e7f9bD4642d36BC506441` | 8       |
-| BEST      | `0xa94AC3924422226c3fC85Aa518E65c836ADFeDF1` | 8       |
-| panAVAX   | `0x6A7ABeea69f01A225104Cc6AD44B88D15056a3fA` | 18      |
-| panBNB    | `0x5538e600dc919f72858dd4D4F5E4327ec6f2af60` | 18      |
-| panETH    | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` | 18      |
-| panMATIC  | `0xFd9a7A3fDA872eA8E948b3b41f2dcb6CB40ed277` | 18      |
-| panCRO    | `0xE31c64069E6f3275E6bb60293A9a6e9a8F7A346f` | 18      |
-| panFTM    | `0xF23BdbAd9Ec3610c0CB475A58eEbf001F0DdED55` | 18      |
-| panCELO   | `0x0613842c24149DE63D46bEE6ba9BD4cE5B80Ee77` | 18      |
+| PAN       | `0xa07798e666eEE120b9eAF7CbdFEFBc60E6374fBe` | 8       |
+| BEST      | `0xfA787768fB423B3F081EF93487e980809D755b75` | 8       |
+| panAVAX   | `0xCab121aE4065a93ccd12E39f9FFe3CB47819686b` | 18      |
+| panBNB    | `0x441742bc6702Ca8C983163E1836281b2Fa184Df2` | 18      |
+| panETH    | `0xc56809b2AFaAe9e490c4fED0EF73440ed7f31484` | 18      |
+| panMATIC  | `POLYGON_PANMATIC_ADDRESS`                   | 18      |
+| panCRO    | `0xB8EE4E7b27Ce26453EE8c3EF4D9651C4897B861c` | 18      |
+| panFTM    | `POLYGON_PANFTM_ADDRESS`                     | 18      |
+| panCELO   | `0x7196CBFc2c2bCDdBf8fb9a636d1EA125F167a128` | 18      |
 
 
 ## Cronos
@@ -111,8 +111,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0x0Cfb3c7C11A33BEf124A9D86073e73932b9AbF90` |
-| Pantos Forwarder    | `0x38dd7589fF20370b3BA5d9C09ac1d16Ed3496435` |
+| Pantos Hub          | `0x11b23FC9741b7afF774b804F91465D5C387606A5` |
+| Pantos Forwarder    | `0x7a9ceFD9023BE0EF800435fEe7e48304cFfFa8dc` |
 
 **ID:** 6
 
@@ -120,15 +120,15 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0x5538e600dc919f72858dd4D4F5E4327ec6f2af60` | 8       |
-| BEST      | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` | 8       |
-| panAVAX   | `0xFd9a7A3fDA872eA8E948b3b41f2dcb6CB40ed277` | 18      |
-| panBNB    | `0x7EFfCc0a130E452c2FB78bFEDBd02a33E03FD50d` | 18      |
-| panETH    | `0x997DFc659ABBd30F3514Bde874E663bC82B0e701` | 18      |
-| panMATIC  | `0x30ce06f12960C46aC64542813e45E03164f412fD` | 18      |
-| panCRO    | `0xCD6dF7dBba253d2e14cb7DD8E1b2662CDb40C69F` | 18      |
-| panFTM    | `0xEAe1274dBdD006b5eA3197729BF5f11B8fbb427E` | 18      |
-| panCELO   | `0x9b304A0B21C6B830298b2412e51Bc5Ba17e8b796` | 18      |
+| PAN       | `0x8D142880F4A2D658f6854f4e295c422b9D12FDB9` | 8       |
+| BEST      | `0x4e13b2E31A90018440A8ab0d1a9260a934B95208` | 8       |
+| panAVAX   | `0x3Db55CC9F005B2E077e87CF6778C6aEA40238837` | 18      |
+| panBNB    | `0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3` | 18      |
+| panETH    | `0x290C6b1c76441b822fB485EDe808686eB8Dfb1e1` | 18      |
+| panMATIC  | `CRONOS_PANMATIC_ADDRESS`                    | 18      |
+| panCRO    | `0xd271c816f7887E8fB32baE04BBa1B62F871a58D1` | 18      |
+| panFTM    | `CRONOS_PANFTM_ADDRESS`                      | 18      |
+| panCELO   | `0x630657EC1e2AB00CBc035a8dbFd1d3b00e572AF9` | 18      |
 
 
 ## Fantom
@@ -163,8 +163,8 @@
 
 | Smart Contract      | Address                                      |
 |---------------------|----------------------------------------------|
-| Pantos Hub          | `0x8389B9A7608dbf52a699b998f309883257923C0E` |
-| Pantos Forwarder    | `0x38dd7589fF20370b3BA5d9C09ac1d16Ed3496435` |
+| Pantos Hub          | `0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3` |
+| Pantos Forwarder    | `0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f` |
 
 **ID:** 8
 
@@ -172,12 +172,12 @@
 
 | Symbol    | Token Contract                               | Decimal |
 |-----------|----------------------------------------------|---------|
-| PAN       | `0x5538e600dc919f72858dd4D4F5E4327ec6f2af60` | 8       |
-| BEST      | `0x5e447968d4a177fE7bFB8877cA12aE20Bd60dD85` | 8       |
-| panAVAX   | `0xFd9a7A3fDA872eA8E948b3b41f2dcb6CB40ed277` | 18      |
-| panBNB    | `0x7EFfCc0a130E452c2FB78bFEDBd02a33E03FD50d` | 18      |
-| panETH    | `0x997DFc659ABBd30F3514Bde874E663bC82B0e701` | 18      |
-| panMATIC  | `0x30ce06f12960C46aC64542813e45E03164f412fD` | 18      |
-| panCRO    | `0xCD6dF7dBba253d2e14cb7DD8E1b2662CDb40C69F` | 18      |
-| panFTM    | `0xEAe1274dBdD006b5eA3197729BF5f11B8fbb427E` | 18      |
-| panCELO   | `0x9b304A0B21C6B830298b2412e51Bc5Ba17e8b796` | 18      |
+| PAN       | `0x14Aa1254a741Cb742455bef48edc4018D3adb58B` | 8       |
+| BEST      | `0x8c517E9B0902DabB1c31347adB34CdF0b7a742Dc` | 8       |
+| panAVAX   | `0xF07B582f28B60178071FB8368fdFA4281BA0E500` | 18      |
+| panBNB    | `0xCcF392D19b948E2fe11DB40E3FD0eeE6aE5F2ccf` | 18      |
+| panETH    | `0x467cD471265Cd87832895CE872d0E4f4B08777c5` | 18      |
+| panMATIC  | `CELO_PANMATIC_ADDRESS`                      | 18      |
+| panCRO    | `0xa153697d318F5BE360EA5F690F145315bF91a413` | 18      |
+| panFTM    | `CELO_PANFTM_ADDRESS`                        | 18      |
+| panCELO   | `0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A` | 18      |
