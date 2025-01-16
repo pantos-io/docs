@@ -36,3 +36,7 @@
 
 * [Report a bug](https://form.typeform.com/to/MWk69LEJ)
 * [Share feedback](https://form.typeform.com/to/rDX50N0j)
+
+## Resources
+
+* [Bug bounty program](general/bounty-resources.md)
