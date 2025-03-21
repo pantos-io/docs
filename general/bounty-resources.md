@@ -32,7 +32,7 @@
 
 ### Ethereum
 * https://holesky.etherscan.io/address/0xEa949C52CA24B75A850591f98F1aA7736fD9a28E Pantos Hub
-* https://holesky.etherscan.io/address/0x9A10366FaC65956233a2D56baEC05ed095c7Cc4b Pantos forwarder
+* https://holesky.etherscan.io/address/0xd07D3e1A11b75e4A84b0e36dC4b3734721F27793 Pantos forwarder
 
 #### Multichain assets 
 
@@ -48,22 +48,22 @@
 
 ### BNB Chain
 * https://testnet.bscscan.com/address/0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3 Pantos Hub
-* https://testnet.bscscan.com/address/0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f Pantos forwarder
+* https://testnet.bscscan.com/address/0x586901f5391caaB3968194f4F76A6157993a4Bf4 Pantos forwarder
 
 #### Multichain assets
 * https://testnet.bscscan.com/address/0x14Aa1254a741Cb742455bef48edc4018D3adb58B PAN
-https://testnet.bscscan.com/address/0x8c517E9B0902DabB1c31347adB34CdF0b7a742Dc BEST
-https://testnet.bscscan.com/address/0xF07B582f28B60178071FB8368fdFA4281BA0E500 panAVAX
-https://testnet.bscscan.com/address/0xCcF392D19b948E2fe11DB40E3FD0eeE6aE5F2ccf panBNB
-https://testnet.bscscan.com/address/0x467cD471265Cd87832895CE872d0E4f4B08777c5 panETH
-https://testnet.bscscan.com/address/0x31259a74b8b94624f9f3Bdb3F4d53dF6006e5a90 panPOL
-https://testnet.bscscan.com/address/0xa153697d318F5BE360EA5F690F145315bF91a413 panCRO
-https://testnet.bscscan.com/address/0x49F196f1F17Cf73Ddf747f924a617655a7227283 panS
-https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A panCELO
+* https://testnet.bscscan.com/address/0x8c517E9B0902DabB1c31347adB34CdF0b7a742Dc BEST
+* https://testnet.bscscan.com/address/0xF07B582f28B60178071FB8368fdFA4281BA0E500 panAVAX
+* https://testnet.bscscan.com/address/0xCcF392D19b948E2fe11DB40E3FD0eeE6aE5F2ccf panBNB
+* https://testnet.bscscan.com/address/0x467cD471265Cd87832895CE872d0E4f4B08777c5 panETH
+* https://testnet.bscscan.com/address/0x31259a74b8b94624f9f3Bdb3F4d53dF6006e5a90 panPOL
+* https://testnet.bscscan.com/address/0xa153697d318F5BE360EA5F690F145315bF91a413 panCRO
+* https://testnet.bscscan.com/address/0x49F196f1F17Cf73Ddf747f924a617655a7227283 panS
+* https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A panCELO
 
 ### Avalanche
 * https://testnet.snowtrace.io/address/0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3 Pantos Hub
-* https://testnet.snowtrace.io/address/0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f Pantos Forwarder
+* https://testnet.snowtrace.io/address/0x586901f5391caaB3968194f4F76A6157993a4Bf4 Pantos Forwarder
 
 #### Multichain assets
 * https://testnet.snowtrace.io/address/0x14Aa1254a741Cb742455bef48edc4018D3adb58B PAN
@@ -78,7 +78,7 @@ https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A p
 
 ### Polygon
 * https://www.oklink.com/amoy/address/0x7383F45310D7157eB310c66864FD99F7cd4424a2 Pantos Hub
-* https://www.oklink.com/amoy/address/0xe3E92B660a50B0Ee84E3BfdE52647aEB947D8932 Pantos forwarder
+* https://www.oklink.com/amoy/address/0x9b71Cf763eF8019601f5690C556AcA4f1953C708 Pantos forwarder
 
 #### Multichain assets
 * https://www.oklink.com/amoy/address/0xa07798e666eEE120b9eAF7CbdFEFBc60E6374fBe PAN
@@ -94,7 +94,7 @@ https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A p
 
 ### Cronos
 * https://explorer.cronos.org/testnet/address/0x11b23FC9741b7afF774b804F91465D5C387606A5 Pantos Hub
-* https://explorer.cronos.org/testnet/address/0x7a9ceFD9023BE0EF800435fEe7e48304cFfFa8dc Pantos forwarder
+* https://explorer.cronos.org/testnet/address/0x8d300603eA5Dd9894C670afb0eD32B555eCc550A Pantos forwarder
 
 #### Multichain assets
 * https://explorer.cronos.org/testnet/address/0x8D142880F4A2D658f6854f4e295c422b9D12FDB9 PAN
@@ -110,7 +110,7 @@ https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A p
 
 ### Sonic
 * https://testnet.sonicscan.org/address/0x45d0c8687a0d796144Aa529CEb9601eE7d021cEd Pantos Hub
-* https://testnet.sonicscan.org/address/0x3CF5B1DDAD6B5ed7693fd02978771395bd4F3f6c Pantos forwarder
+* https://testnet.sonicscan.org/address/0x4f79FAD28C82202303c73eC96FB77B8170e256fe Pantos forwarder
 
 #### Multichain assets
 * https://testnet.sonicscan.org/address/0x6338DfA0bA6C4a9D2151f84BAC34c38D605A8d93 PAN
@@ -126,7 +126,7 @@ https://testnet.bscscan.com/address/0x4842A05b1D64905C3e6209fd0F73E1D6c6458D0A p
 
 ### Celo
 * https://alfajores.celoscan.io/address/0xbC953ac25cCf906Cf229EbE5C0f5101a253E94C3 Pantos Hub
-* https://alfajores.celoscan.io/address/0x81F6d0078CCFb0bdDF40E5dEE6680f957F3Cc85f Pantos forwarder
+* https://alfajores.celoscan.io/address/0x586901f5391caaB3968194f4F76A6157993a4Bf4 Pantos forwarder
 
 #### Multichain assets
 * https://alfajores.celoscan.io/address/0x14Aa1254a741Cb742455bef48edc4018D3adb58B PAN
